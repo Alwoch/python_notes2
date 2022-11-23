@@ -1,0 +1,1 @@
+{"title": "minority report", "director": "Steven Spielberg", "composer": "John Williams", "actors": ["Tom Cruise", "Collin Farrel", "Samantha Morton", "Max vON Sydow"], "isAwesome": true, "budget": 102000000, "cinematographer": "Janusz kamiński"}
